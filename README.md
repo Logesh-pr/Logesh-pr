@@ -23,8 +23,8 @@
 ##  🌐Socials
 
 
-<p align=left ><a href="https://twitter.com/Logeshvaraan"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=#1DA1F2"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a></p>
+<p align=left ><a href="https://twitter.com/Logeshvaraan"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=#1DA1F2"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a></p>
 
 
 

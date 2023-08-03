@@ -16,7 +16,7 @@
 ## 💫 About Me
 
 
-👨‍💻 Junior Front end developer<br>🌱 I’m currently learning React<br> 🎯Goal Contribute more to open source project<br>⚡ Fun fact - I love to code 
+👨‍💻 Junior Front end developer<br>🌱 I’m currently learning Next.js<br> 🎯Goal Contribute more to open source project<br>⚡ Fun fact - I love to code 
 
 <br>
 

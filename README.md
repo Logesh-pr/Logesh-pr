@@ -5,7 +5,6 @@
  let profile = {
     name: "Logesh",
     interestedIn:"Web Development",
-    workingAs:"Front end developer",
     country:"India"
      }
 ```   
